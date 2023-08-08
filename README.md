@@ -3,7 +3,7 @@
 
 RecyclerView.
 
-**Technical task:**
+**Task:**
 
 Write a list of news, which has a picture, title, text. Number of news - 15 pieces (can be duplicated). If the text is too long, it is cut off.
 
